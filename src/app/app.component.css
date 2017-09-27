@@ -1,0 +1,21 @@
+#logo {
+    background-image: url("/assets/tlo.png");
+    height: 200px;
+    background-repeat: no-repeat;
+    text-indent: -9999px;
+    display:block;
+    margin: auto;
+    background-size:contain;
+    background-position:center;
+}
+
+#main-container {
+    margin: auto;
+    max-width:450px;
+}
+
+footer {
+    display: none;
+    font-size: 0.8em;
+    text-align: center;
+}

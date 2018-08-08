@@ -1,3 +1,11 @@
 #adresWLokalizacji {
     padding-bottom: 1em; 
 }
+
+#mapka {
+    background:url(/assets/5.gif) center center no-repeat;
+}
+
+#mapka iframe {
+    border: 1px purple solid;
+}
